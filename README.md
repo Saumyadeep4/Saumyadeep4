@@ -1,20 +1,37 @@
-<h1 align="center">Hi 👋, I'm Saumyadeep Chakraborty</h1>
-<h3 align="center">A passionate infra admin from India</h3>
+# 👋 Hi, I'm Saumyadeep
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyadeep4&label=Profile%20views&color=0e75b6&style=flat" alt="saumyadeep4" /> </p>
+🚀 Working in L2/L3 Support | Transitioning into DevOps & Cloud Engineering
+---
 
-- 📫 How to reach me **sdeepchakraborty4@gmail.com**
+## About
+- 5 years in production support (L2/L3) 🛠️
+- RHCSA certified 📜
+- Working with AWS (EC2, Lambda, DynamoDB, IAM) ☁️
+- Currently building hands-on DevOps projects 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/saumwhat_good" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_big._._.smoke_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Focus Areas
+- Docker, Kubernetes 🐳
+- CI/CD (GitHub Actions, GitLab CI/CD) 🔄
+- Infrastructure as Code 📦
+- Linux and networking fundamentals 🧠
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumyadeep4&show_icons=true&locale=en&layout=compact" alt="saumyadeep4" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyadeep4&show_icons=true&locale=en" alt="saumyadeep4" /></p>
+## Projects
+- DevOps pipeline with Docker and Kubernetes (in progress)
+- AWS instance scheduler (multi-account setup)
+- Containerized applications on Kubernetes
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyadeep4&" alt="saumyadeep4" /></p>
+---
+
+## Goal  
+Move into a DevOps / Cloud engineering role with strong practical experience 🎯
+
+---
+
+## Connect
+
+- GitHub: [Saumyadeep4](https://github.com/Saumyadeep4/)
+- LinkedIn: [Saumyadeep Cakraborty](https://www.linkedin.com/in/saumyadeep-chakraborty/)
