@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saumyadeep
+# 👋 Hi, I'm Saumyadeep Chakraborty
 
 🚀 Working in L2/L3 Support | Transitioning into DevOps & Cloud Engineering
 ---
