@@ -1,7 +1,7 @@
 # Saumyadeep Chakraborty
 **Cloud Platform Engineer · AWS · Infrastructure Automation · Linux (RHCSA)**
 
-Kolkata, India · [LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · [Portfolio](https://your-portfolio-link)
+Kolkata, India · [LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · [Portfolio](https://saumyadeep4.github.io)
 
 ---
 
