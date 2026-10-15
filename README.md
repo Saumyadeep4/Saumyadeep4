@@ -1,91 +1,76 @@
 # Saumyadeep Chakraborty
-**Cloud Platform Engineer · AWS · Infrastructure Automation · Linux (RHCSA)**
 
-Kolkata, India · [LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · [Portfolio](https://saumyadeep4.github.io)
+### Cloud Platform Engineer · AWS · Infrastructure Automation · Linux
 
----
+Kolkata, India · [LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · [Portfolio](https://saumyadeep4.github.io) · [Email](mailto:sdeepchakraborty4@gmail.com)
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
+</p>
 
 ## About
 
-Cloud Platform Engineer with 5+ years of hands-on experience operating and automating enterprise-scale infrastructure across AWS, OCI, Azure, and GCP. I specialize in infrastructure automation, platform engineering, cloud security, and CI/CD — with production ownership across 200+ servers and 20+ AWS accounts at Deloitte.
+Cloud Platform Engineer with 5+ years of experience operating and automating enterprise infrastructure across AWS, OCI, Azure, and GCP. I focus on platform engineering, infrastructure automation, cloud security, and CI/CD—with production ownership across 200+ servers and 20+ AWS accounts at Deloitte.
 
-RHCSA-certified. Experienced with Linux administration at scale. I build things that run reliably in production, not just in demos.
+RHCSA-certified. I build practical systems that are observable, secure, and reliable in production—not just in demos.
 
----
+## What I work with
 
-## Core Stack
+| Area | Tools and technologies |
+| --- | --- |
+| Cloud | AWS (EC2, Lambda, IAM, SSM, Backup, Secrets Manager, CloudWatch, VPC, SNS), OCI, Azure, GCP |
+| Infrastructure as code | Terraform, CloudFormation |
+| Automation | Python, Bash, AWS Lambda, event-driven workflows |
+| CI/CD | GitLab CI, GitHub Actions, JFrog Artifactory |
+| Containers | Docker, Kubernetes |
+| Observability | Datadog, CloudWatch, SNS alerting |
+| Systems | RHEL, Amazon Linux, Oracle Linux, Windows Server, VPC networking |
+| Security and governance | IAM, Secrets Manager, SOX compliance, cloud governance |
 
-**Cloud:** AWS (EC2, Lambda, IAM, SSM, Backup, Secrets Manager, CloudWatch, VPC, SNS) · OCI · Azure · GCP
-
-**Infrastructure as Code:** Terraform · CloudFormation
-
-**Automation & Scripting:** Python · Bash · AWS Lambda · Event-driven workflows
-
-**CI/CD:** GitLab CI · GitHub Actions · JFrog Artifactory
-
-**Containers & Orchestration:** Docker · Kubernetes
-
-**Monitoring & Observability:** Datadog · CloudWatch · SNS Alerting
-
-**OS & Networking:** RHEL · Amazon Linux · Oracle Linux · Windows Server · VPC Networking
-
-**Cloud Security:** IAM · Secrets Manager · SOX Compliance · Cloud Governance
-
----
-
-## Featured Projects
+## Featured projects
 
 ### Cross-Account AWS Backup Compliance Automation
-Automated backup validation and SOX-compliant reporting across 20+ AWS accounts using Python Lambda functions with cross-account IAM role assumption. Centralized monthly CSV aggregation reduced manual audit effort by ~70%.
+
+Automated backup validation and SOX-compliant reporting across 20+ AWS accounts using Python Lambda functions with cross-account IAM role assumption. Centralized monthly CSV aggregation reduced manual audit effort by approximately 70%.
 
 `Python` `AWS Lambda` `IAM` `AWS Backup` `CloudWatch` `SNS`
 
----
-
 ### Zero-Day Windows Patching Automation
-End-to-end patch automation using AWS Systems Manager (SSM) Run Command and Lambda event triggers for KB-based Windows patch deployment. Cut deployment cycle time from ~6 hours to ~3 hours — 50% improvement in patching SLA and system reliability.
+
+Built end-to-end, KB-based Windows patch automation with AWS Systems Manager Run Command and Lambda event triggers. Cut deployment cycle time from roughly six hours to three hours—a 50% improvement in patching SLA and reliability.
 
 `AWS SSM` `Lambda` `Python` `Windows Server` `Automation`
 
----
-
 ### Cloud Governance & Platform Automation Suite
-Suite of infrastructure automation scripts for GitLab inactive-user lifecycle management and Artifactory platform usage reporting. Reduced license consumption by ~10% monthly and improved cloud governance hygiene across 50+ repositories.
+
+Created automation for GitLab inactive-user lifecycle management and Artifactory usage reporting. Reduced license consumption by approximately 10% monthly and improved governance across 50+ repositories.
 
 `Python` `Bash` `GitLab API` `JFrog Artifactory` `Cloud Governance`
 
----
+### [Music Control — macOS Menu-Bar & Notch Companion](https://github.com/Saumyadeep4/MusicControl)
 
-### Music Control — macOS Menu-Bar & Notch Companion
-A native SwiftUI and AppKit macOS application for controlling media without leaving the current app. Music Control works with Apple Music, Spotify, browser media, Podcasts, TV, QuickTime, and other apps that publish macOS Now Playing information.
-
-It provides a compact menu-bar and MacBook notch interface with playback controls, album artwork, progress tracking, volume and mute controls, audio-output selection, battery status, update checking, and configurable settings.
+Built a native SwiftUI and AppKit macOS application for controlling Apple Music, Spotify, browser media, Podcasts, TV, QuickTime, and other Now Playing sources. It combines playback, artwork, progress, volume, mute, audio-output selection, battery status, update checking, and a compact menu-bar/notch interface.
 
 `Swift` `SwiftUI` `AppKit` `macOS` `CoreAudio` `GitHub Actions`
-
-[View Music Control on GitHub](https://github.com/Saumyadeep4/MusicControl)
-
----
 
 ## Certifications
 
 - **RHCSA** — Red Hat Certified System Administrator (2024)
-- AWS Solutions Architect – Associate *(in progress)*
+- **AWS Solutions Architect – Associate** *(in progress)*
 
----
-
-## What I'm Working On
+## Now
 
 - Deepening CloudFormation expertise alongside Terraform
-- AWS Solutions Architect – Associate certification
+- Preparing for the AWS Solutions Architect – Associate certification
 - Building public IaC reference architectures for multi-account AWS environments
 - Improving Music Control with additional macOS media, battery, and system-control features
-- Building reliable release and update workflows with GitHub Actions
 
----
+## Let’s connect
 
-## Get in Touch
+I’m open to Cloud Platform Engineer, DevOps Engineer, and Infrastructure Engineer opportunities—especially in AWS-heavy or multi-cloud environments.
 
-I'm open to Cloud Platform Engineer, DevOps Engineer, and Infrastructure Engineer roles — especially in multi-cloud or AWS-heavy environments.
-
-→ [LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · sdeepchakraborty4@gmail.com
+[LinkedIn](https://www.linkedin.com/in/saumyadeep-chakraborty/) · [Portfolio](https://saumyadeep4.github.io) · [Email](mailto:sdeepchakraborty4@gmail.com)
