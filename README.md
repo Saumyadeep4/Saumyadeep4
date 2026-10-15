@@ -56,6 +56,17 @@ Suite of infrastructure automation scripts for GitLab inactive-user lifecycle ma
 
 ---
 
+### Music Control — macOS Menu-Bar & Notch Companion
+A native SwiftUI and AppKit macOS application for controlling media without leaving the current app. Music Control works with Apple Music, Spotify, browser media, Podcasts, TV, QuickTime, and other apps that publish macOS Now Playing information.
+
+It provides a compact menu-bar and MacBook notch interface with playback controls, album artwork, progress tracking, volume and mute controls, audio-output selection, battery status, update checking, and configurable settings.
+
+`Swift` `SwiftUI` `AppKit` `macOS` `CoreAudio` `GitHub Actions`
+
+[View Music Control on GitHub](https://github.com/Saumyadeep4/MusicControl)
+
+---
+
 ## Certifications
 
 - **RHCSA** — Red Hat Certified System Administrator (2024)
@@ -68,6 +79,8 @@ Suite of infrastructure automation scripts for GitLab inactive-user lifecycle ma
 - Deepening CloudFormation expertise alongside Terraform
 - AWS Solutions Architect – Associate certification
 - Building public IaC reference architectures for multi-account AWS environments
+- Improving Music Control with additional macOS media, battery, and system-control features
+- Building reliable release and update workflows with GitHub Actions
 
 ---
 
